@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|e:\\protected\\do an\\asp.net\\mvc_qltc-jvdn7f\\mvc_qltc\\websitemvc\\websitemvc\\views\\shared\\_layoutadminlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\shared\\_layoutadminlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\content\\theme\\assets\\admin\\pages\\css\\login-soft.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\content\\theme\\assets\\admin\\pages\\css\\login-soft.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\content\\theme\\assets\\admin\\pages\\css\\login2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\content\\theme\\assets\\admin\\pages\\css\\login2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\taikhoan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\taikhoan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\shared\\_topmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\shared\\_topmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\tamung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\tamung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\cttamung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\cttamung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\congno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\congno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\congno\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\congno\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\base\\notpermistion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\base\\notpermistion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\models\\extention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\models\\extention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\models\\erole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\models\\erole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\models\\baocaoquy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\models\\baocaoquy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\thanhtoan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\thanhtoan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\quy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\quy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\tamung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\tamung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\thuchi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\thuchi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\websitemvc\\views\\taikhoan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90285B29-5ACD-4643-BCE9-A004EC08A585}|WebsiteMVC\\WebsiteMVC.csproj|solutionrelative:websitemvc\\views\\taikhoan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login2.css",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Content\\theme\\assets\\admin\\pages\\css\\login2.css",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Content\\theme\\assets\\admin\\pages\\css\\login2.css",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Content\\theme\\assets\\admin\\pages\\css\\login2.css",
+              "RelativeToolTip": "WebsiteMVC\\Content\\theme\\assets\\admin\\pages\\css\\login2.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T09:59:31.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login-soft.css",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Content\\theme\\assets\\admin\\pages\\css\\login-soft.css",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Content\\theme\\assets\\admin\\pages\\css\\login-soft.css",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Content\\theme\\assets\\admin\\pages\\css\\login-soft.css",
+              "RelativeToolTip": "WebsiteMVC\\Content\\theme\\assets\\admin\\pages\\css\\login-soft.css",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T09:43:22.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T08:56:45.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\TaiKhoan\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\TaiKhoan\\Index.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\TaiKhoan\\Index.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\TaiKhoan\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:23:57.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutAdminList.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Shared\\_LayoutAdminList.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\Shared\\_LayoutAdminList.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Shared\\_LayoutAdminList.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\Shared\\_LayoutAdminList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:23:23.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_TopMenu.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Shared\\_TopMenu.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\Shared\\_TopMenu.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Shared\\_TopMenu.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\Shared\\_TopMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:23:03.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Menu.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Shared\\_Menu.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\Shared\\_Menu.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Shared\\_Menu.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\Shared\\_Menu.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:21:29.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebsiteMVC\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:17:48.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\packages.config",
+              "RelativeDocumentMoniker": "WebsiteMVC\\packages.config",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\packages.config",
+              "RelativeToolTip": "WebsiteMVC\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-18T09:17:29.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:02:04.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Web.config",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\Web.config",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Web.config",
+              "RelativeToolTip": "WebsiteMVC\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-18T09:17:33.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\favicon.ico",
+              "RelativeDocumentMoniker": "WebsiteMVC\\favicon.ico",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "WebsiteMVC\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-12-18T09:17:31.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Global.asax.cs",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Global.asax.cs",
+              "RelativeToolTip": "WebsiteMVC\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:17:27.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\CongNo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\CongNo\\Edit.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\CongNo\\Edit.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\CongNo\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:16:50.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\TamUng\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\TamUng\\Edit.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\TamUng\\Edit.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\TamUng\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:00:24.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotPermistion.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Base\\NotPermistion.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\Base\\NotPermistion.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Base\\NotPermistion.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\Base\\NotPermistion.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:16:34.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\CongNo\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\CongNo\\Index.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\CongNo\\Index.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\CongNo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:08:41.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\CTTamUng\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\CTTamUng\\Index.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\CTTamUng\\Index.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\CTTamUng\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:02:23.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Models\\Model1.edmx",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WebsiteMVC\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-18T09:09:06.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Extention.cs",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Models\\Extention.cs",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Models\\Extention.cs",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Models\\Extention.cs",
+              "RelativeToolTip": "WebsiteMVC\\Models\\Extention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:09:04.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "eRole.cs",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Models\\eRole.cs",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Models\\eRole.cs",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Models\\eRole.cs",
+              "RelativeToolTip": "WebsiteMVC\\Models\\eRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:09:02.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Web.config",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Web.config",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Web.config",
+              "RelativeToolTip": "WebsiteMVC\\Web.config",
+              "ViewState": "AgIAADMAAAAAAAAAAAAWwEkAAADgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-06T15:09:01.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaoCaoQuy.cs",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Models\\BaoCaoQuy.cs",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Models\\BaoCaoQuy.cs",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Models\\BaoCaoQuy.cs",
+              "RelativeToolTip": "WebsiteMVC\\Models\\BaoCaoQuy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:09:01.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\ThanhToan\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\ThanhToan\\Index.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\ThanhToan\\Index.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\ThanhToan\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:08:19.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Quy\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\Quy\\Index.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\Quy\\Index.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\Quy\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:07:25.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\ThuChi\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\ThuChi\\Index.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\ThuChi\\Index.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\ThuChi\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:02:43.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\TamUng\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\TamUng\\Index.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\TamUng\\Index.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\TamUng\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:00:39.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\TaiKhoan\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebsiteMVC\\Views\\TaiKhoan\\Edit.cshtml",
+              "ToolTip": "E:\\Protected\\Do An\\ASP.NET\\MVC_QLTC-jvdn7f\\MVC_QLTC\\WebsiteMVC\\WebsiteMVC\\Views\\TaiKhoan\\Edit.cshtml",
+              "RelativeToolTip": "WebsiteMVC\\Views\\TaiKhoan\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T06:19:47.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
